@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.tudarmstadt.ukp.wiktionary:de.tudarmstadt.ukp.wiktionary:0.16.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tudarmstadt/ukp/wiktionary/de.tudarmstadt.ukp.wiktionary/0.16.1/de.tudarmstadt.ukp.wiktionary-0.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tudarmstadt/ukp/wiktionary/de.tudarmstadt.ukp.wiktionary/0.16.1/de.tudarmstadt.ukp.wiktionary-0.16.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tudarmstadt/ukp/wiktionary/de.tudarmstadt.ukp.wiktionary/0.16.1/de.tudarmstadt.ukp.wiktionary-0.16.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

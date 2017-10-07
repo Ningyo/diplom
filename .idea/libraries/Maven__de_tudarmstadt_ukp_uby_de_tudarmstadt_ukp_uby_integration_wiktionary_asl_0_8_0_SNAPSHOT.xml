@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.tudarmstadt.ukp.uby:de.tudarmstadt.ukp.uby.integration.wiktionary-asl:0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tudarmstadt/ukp/uby/de.tudarmstadt.ukp.uby.integration.wiktionary-asl/0.8.0-SNAPSHOT/de.tudarmstadt.ukp.uby.integration.wiktionary-asl-0.8.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tudarmstadt/ukp/uby/de.tudarmstadt.ukp.uby.integration.wiktionary-asl/0.8.0-SNAPSHOT/de.tudarmstadt.ukp.uby.integration.wiktionary-asl-0.8.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tudarmstadt/ukp/uby/de.tudarmstadt.ukp.uby.integration.wiktionary-asl/0.8.0-SNAPSHOT/de.tudarmstadt.ukp.uby.integration.wiktionary-asl-0.8.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.distribution/de.tudarmstadt.ukp.uby.distribution.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.distribution/de.tudarmstadt.ukp.uby.distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.doc-asl/de.tudarmstadt.ukp.uby.doc-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.doc-asl/de.tudarmstadt.ukp.uby.doc-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl/de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl/de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl/de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl/de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.verbnet-asl/de.tudarmstadt.ukp.uby.integration.verbnet-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.verbnet-asl/de.tudarmstadt.ukp.uby.integration.verbnet-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wikipedia-asl/de.tudarmstadt.ukp.uby.integration.wikipedia-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wikipedia-asl/de.tudarmstadt.ukp.uby.integration.wikipedia-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wordnet-gpl/de.tudarmstadt.ukp.uby.integration.wordnet-gpl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wordnet-gpl/de.tudarmstadt.ukp.uby.integration.wordnet-gpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.lmf.api-asl/de.tudarmstadt.ukp.uby.lmf.api-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.lmf.api-asl/de.tudarmstadt.ukp.uby.lmf.api-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.lmf.model-asl/de.tudarmstadt.ukp.uby.lmf.model-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.lmf.model-asl/de.tudarmstadt.ukp.uby.lmf.model-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.persistence.lmfxml-asl/de.tudarmstadt.ukp.uby.persistence.lmfxml-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.persistence.lmfxml-asl/de.tudarmstadt.ukp.uby.persistence.lmfxml-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.persistence.transform-asl/de.tudarmstadt.ukp.uby.persistence.transform-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.persistence.transform-asl/de.tudarmstadt.ukp.uby.persistence.transform-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.testing-asl/de.tudarmstadt.ukp.uby.testing-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.testing-asl/de.tudarmstadt.ukp.uby.testing-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.uima-asl/de.tudarmstadt.ukp.uby.uima-asl.iml" filepath="$PROJECT_DIR$/de.tudarmstadt.ukp.uby.uima-asl/de.tudarmstadt.ukp.uby.uima-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

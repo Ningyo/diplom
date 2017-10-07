@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.doc-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.alignment-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.framenet-gpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.germanet-gpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.omegawiki-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.verbnet-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wikipedia-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wiktionary-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.integration.wordnet-gpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.lmf.api-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.lmf.model-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.persistence.lmfxml-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.persistence.transform-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.testing-asl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.ubycreate-gpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/de.tudarmstadt.ukp.uby.uima-asl" charset="UTF-8" />
+  </component>
+</project>

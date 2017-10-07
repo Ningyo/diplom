@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.distribution" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.doc-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.verbnet-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.wikipedia-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.wordnet-gpl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.lmf.api-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.lmf.model-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.persistence.lmfxml-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.persistence.transform-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.testing-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.uima-asl" exported="" />
+  </component>
+</module>

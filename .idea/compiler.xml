@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl" />
+        <module name="de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl" />
+        <module name="de.tudarmstadt.ukp.uby.integration.verbnet-asl" />
+        <module name="de.tudarmstadt.ukp.uby.integration.wikipedia-asl" />
+        <module name="de.tudarmstadt.ukp.uby.integration.wordnet-gpl" />
+        <module name="de.tudarmstadt.ukp.uby.lmf.api-asl" />
+        <module name="de.tudarmstadt.ukp.uby.lmf.model-asl" />
+        <module name="de.tudarmstadt.ukp.uby.persistence.lmfxml-asl" />
+        <module name="de.tudarmstadt.ukp.uby.persistence.transform-asl" />
+        <module name="de.tudarmstadt.ukp.uby.testing-asl" />
+        <module name="de.tudarmstadt.ukp.uby.uima-asl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="de.tudarmstadt.ukp.uby" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.distribution" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.doc-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.alignment-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.framenet-gpl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.germanet-gpl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.omegawiki-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.verbnet-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.wikipedia-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.wiktionary-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.integration.wordnet-gpl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.lmf.api-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.lmf.model-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.persistence.lmfxml-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.persistence.transform-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.testing-asl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.ubycreate-gpl" target="1.7" />
+      <module name="de.tudarmstadt.ukp.uby.uima-asl" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

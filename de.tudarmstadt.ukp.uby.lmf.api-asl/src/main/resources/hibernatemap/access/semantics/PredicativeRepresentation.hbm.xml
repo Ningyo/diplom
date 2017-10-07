@@ -1,0 +1,21 @@
+<?xml version="1.0"?><!DOCTYPE hibernate-mapping PUBLIC
+ "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>  
+<class name="de.tudarmstadt.ukp.lmf.model.semantics.PredicativeRepresentation" table="PredicativeRepresentation" 
+		node="PredicativeRepresentation" dynamic-insert="true">
+
+   <id column="predicativeRepresentationId" type="long">
+           <generator class="increment"/>
+    </id>
+    
+    <many-to-one name="predicate" class="de.tudarmstadt.ukp.lmf.model.semantics.SemanticPredicate" 
+     	column="predicate" node="@predicate" foreign-key="none" index="predicativerepresentation_predicate_IDX"/>
+    
+   
+         <!-- Not in the model, mapped for convenience -->	
+    <many-to-one name="sense" column="senseId" class="de.tudarmstadt.ukp.lmf.model.core.Sense"
+    		insert="false" update="false"/>
+</class>
+
+</hibernate-mapping>

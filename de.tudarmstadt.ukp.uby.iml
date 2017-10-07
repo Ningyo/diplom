@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.distribution" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.doc-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.gsubcatlex-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.ontowiktionary-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.verbnet-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.wikipedia-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.integration.wordnet-gpl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.lmf.api-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.lmf.model-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.persistence.lmfxml-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.persistence.transform-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.testing-asl" exported="" />
+    <orderEntry type="module" module-name="de.tudarmstadt.ukp.uby.uima-asl" exported="" />
+    <orderEntry type="library" name="mysql-connector-java-5.0.8-bin" level="project" />
+    <orderEntry type="library" name="postgresql-42.1.4" level="project" />
+  </component>
+</module>
